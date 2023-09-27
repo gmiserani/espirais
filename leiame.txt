@@ -1,0 +1,14 @@
+sistema operacional usado:
+para o desenvolvimento do trabalho,foi usado
+o sistema mac OS, mas foi também testado no 
+WINDOWS 10.
+Para compilar, foi usado o gcc, como demonstrado 
+a seguir:
+
+espiral quadrada
+compilando:
+gcc espquadrada.c -o espquadrada[.exe]
+
+espiral triangular
+compilando:
+gcc esptriangular.c -o esptriangular[.exe]
